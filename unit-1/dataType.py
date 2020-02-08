@@ -1,5 +1,6 @@
 # Data type & variable in Python
 
+# given some examples assign value from different Data Type into variable
 nama = "Agung"
 umur = 19
 nilai = 9.50
@@ -10,6 +11,7 @@ tipe_range = range(10)
 tipe_dict = {"nama": "Agung", "Umur": 19}
 tipe_set = {"berries", "banana", "cuanki"}
 
+# Print result from all variable & type of variable
 print("Nama saya adalah : " + nama + ", tipe datanya adalah", type(nama))
 print("Umur saya sekarang : ", umur, " Tahun, tipe datanya adalah", type(umur))
 print("Nilai semester saya adalah : ", nilai, ", tipe datanya adalah", type(nilai))
